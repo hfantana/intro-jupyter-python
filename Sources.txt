@@ -1,2 +1,0 @@
-https://nbviewer.jupyter.org/github/gumption/Python_for_Data_Science/blob/master/Python_for_Data_Science_all.ipynb
-https://github.com/fivethirtyeight/data/tree/master/airline-safety
